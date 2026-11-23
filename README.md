@@ -1,7 +1,7 @@
 # Junaid Bilal | Cybersecurity
 
 <p align="center">
-  <img src="./cybersecurity-banner.png" width="100%" alt="Cybersecurity Banner">
+  <img src="./cybersecurity-banner.png.png" width="100%" alt="Cybersecurity Banner">
 </p>
 
 <h3 align="center">Network & Systems Security | SOC Operations | Web Application Security</h3>
