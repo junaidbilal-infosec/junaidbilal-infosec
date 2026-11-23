@@ -31,6 +31,13 @@ I'm focused on developing practical cybersecurity skills across defensive securi
 ## Current Focus
 
 Building hands-on experience through practical labs, security research, and technical projects.
+## Certifications
+
+### Google Cybersecurity Professional Certificate
+- **Provider:** Google
+- **Platform:** Coursera
+- **Focus:** Cybersecurity, Network Security, Linux, SIEM, Threat Detection and Incident Response
+- **Certificate:** [View Credential](https://coursera.org/share/36eae62d4f2f598795e545dc0fb722ce)
 
 ## Connect With Me
 
